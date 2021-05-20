@@ -1,7 +1,7 @@
-Lab [1]  Creating a container registry in Azure and hosting a Docker container. 
+Lab [1]  Creating a container registry in Azure and host a Docker container. 
 
 Follow the numbered steps to create a container registry in Azure, pull a docker conatiner from docker repository. 
-Re-tag the container and upload to your container registry. 
+Re-tag the container and upload to your container registry and run your container from your Azure repository. 
 #-----------------------------------------------------------------------------------------
 [1] Login to your Azure subscription and search for Container registry. 
 [2] Create the registry by creating a resource group and providing the registry with a name. 
